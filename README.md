@@ -10,7 +10,7 @@ Brazil which is in the southern area of South American continent.
 This project will help in analyzing the situation of forest fires happening,
 Everyone can look at this analysis and get an idea about the condition.
 This analysis is reported according to the states of the country of Brazil by 
-the span of 9 years i.e. from 1998 to 2017.
+the span of 19 years i.e. from 1998 to 2017.
 
 
 *What have i done?
