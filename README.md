@@ -1,5 +1,7 @@
 # amazon-forest-fire.
 
+Name of the project:- Amazon forest fire in Brazil
+
 Description/Summary
 
 This project is about analyzing the forest fire which takes place often at the
